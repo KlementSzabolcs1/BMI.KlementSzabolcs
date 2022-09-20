@@ -1,4 +1,4 @@
-# [Név]
+# ["Klement Szabolcs"]
 
 ## Hogyan kezdj neki?
 
