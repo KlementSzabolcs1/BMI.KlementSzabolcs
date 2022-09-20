@@ -1,0 +1,14 @@
+body {
+
+}
+
+div {
+    background-color: orange;
+    margin-top: 250px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.jobbra {
+    text-align: end;
+    float: right;
+}
