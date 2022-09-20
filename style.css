@@ -1,14 +1,68 @@
-body {
-
-}
-
-div {
-    background-color: orange;
-    margin-top: 250px;
+.div1 {
     margin-right: 250px;
     margin-left: 250px;
 }
+.div2 {
+    margin-left: 350px;
+    margin-top: 50px;
+}
 .jobbra {
-    text-align: end;
+    text-align: right;
     float: right;
 }
+td {
+    padding: 10px;
+    margin: 10px;
+}
+.tabla1 {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: orange;
+    color: white;
+}
+.tabla2 {
+    margin-left: 100px;
+    
+}
+.listatabla {
+    border-bottom: 1px solid black;
+    
+}
+.kozep {
+    text-align: center;
+}
+.balra {
+    text-align: left;
+}
+h2 {
+    color: orange;
+    font-size: 15pt;
+    
+}
+input {
+    width: 90px;
+}
+button {
+    border: 0px solid black;
+    color: orange;
+}
+li {
+    text-align: justify;
+    margin-left: 150px;
+    list-style: none;
+}
+.behuz {
+    margin-left: 100px;
+    
+}
+.felkover {
+    font-weight: bold;
+}
+.narancs {
+    color: orange;
+}
+.fentmargo {
+    margin-top: 15px;
+}
+
